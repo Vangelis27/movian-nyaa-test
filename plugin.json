@@ -1,0 +1,14 @@
+{
+	"type":"ecmascript",
+	"file":"nyaa.js",
+	"id":"nyaa",
+	"title":"NyaaTorrents",
+	"icon":"logo.png",
+	"showtimeVersion":"4.8.1",
+	"version":"1.0",
+	"category":"video",
+	"author":"Anatoly Shcherbinin (Cy-4AH)",
+	"homepage":"http://www.nyaa.si",
+	"synopsis":"Nyaa torrents",
+	"description":"A BitTorrent community focused on Eastern Asian media including anime, manga, music, and more."
+}
